@@ -9,3 +9,24 @@ Patients will be helped outside of Afghanistan in neighbouring countries by the 
 # Main Functionalities
 All users of the Ministry of Public Health Afghanistan, including doctors, and central database controllers, will have a highly friendly user experience if they use this app and 
 all the doctors, clinics, and medical stores can register through their own accounts with the Ministry of Public Health's approval, and after their accounts are approved according to MOPH's laws and regulations, they can work freely in the health sector. In addition, all unlicensed doctors, clinics, and medical stores must register in the system; if any are absent, the MOPH can take significant action against them based on patient complaints to the system or a survey conducted by the MOPH. Patients can schedule appointments with a preferred specialist from far-flung provinces of Afghanistan; all information about the doctors and clinical hospitals must be provided to the patients. Patients can make appointments with specialists in adjacent countries who are located outside of Afghanistan; all information on the doctors and clinical hospitals must be provided to the patients. 
+
+## Installation
+- Download the clone on your local machine
+- Import DATABASE.sql to your database
+- Set database name as onlinehealthguide for a database
+- Run the project in your local browser
+
+## Used Technologies
+- PHP
+- HTML5
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
+- JQUERY
+- AJAX
+- MYSQL
+
+## Requirements
+- MySQL 4.1.1+
+- PHP 5.3.2+
+- A Webserver (eg. Apache)
